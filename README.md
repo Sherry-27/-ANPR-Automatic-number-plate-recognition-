@@ -35,6 +35,8 @@
 
 *Real-time license plate detection in action - identifying plate **R-183-JF** with high confidence*
 
+Kaggle Training Notebook: https://www.kaggle.com/code/shaheerkhan27/onnxx
+
 </div>
 
 ### Sample Output
