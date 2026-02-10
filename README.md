@@ -1,7 +1,7 @@
 # 🚗 Automatic Number Plate Recognition (ANPR)
 
 <div align="center">
-![ANPR Demo](https://github.com/Sherry-27/-ANPR-Automatic-number-plate-recognition-/blob/main/demo.png)
+![ANPR Demo](https://github.com/Sherry-27/-ANPR-Automatic-number-plate-recognition-/blob/main/image.png)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![YOLOv9](https://img.shields.io/badge/YOLOv9-GELAN--C-green.svg)](https://github.com/WongKinYiu/yolov9)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
