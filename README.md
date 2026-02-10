@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ANPR Demo]
+![ANPR]
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![YOLOv9](https://img.shields.io/badge/YOLOv9-GELAN--C-green.svg)](https://github.com/WongKinYiu/yolov9)
